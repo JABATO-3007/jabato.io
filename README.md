@@ -4,6 +4,9 @@
 <br />
 <br />
 <br />
+* unconfirmed_transactions
+* inspect
+* address
 ÁRBOLES EN ESPAÑA
 <br />
 <br />-En este sitio web se encontrará una cantidad voluminosa de información sobre nuestros árboles.
