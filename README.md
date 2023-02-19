@@ -1,5 +1,5 @@
-Now in construction.
-En estos momentos está el sitio en construcción.
+**Now in construction.**
+**En estos momentos está el sitio en construcción.**
 <br />
 <br />
 <br />
@@ -11,7 +11,7 @@ En estos momentos está el sitio en construcción.
 <br />
 <br />        -Manzanos.
 <br />        -Naranjos.
-<br />        -Pe6ales.
+<br />        -Perales.
 <br />        -Limoneros.
 <br />        -Etc
 <br />
@@ -22,8 +22,8 @@ TREES IN SPAIN
 <br />-This site web is going to have a huge information of looking after our trees.
 <br />    -Also you'll find information of trees like:
 <br />
-<br />        -Apple trees.
-<br />        -Orange trees.
-<br />        -Pear trees.
-<br />        -Lemon trees.
-<br />        -Etc
+<br />        * -Apple trees.
+<br />        * -Orange trees.
+<br />        * -Pear trees.
+<br />        * -Lemon trees.
+<br />        * -Etc
