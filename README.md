@@ -9,11 +9,11 @@
 <br />-En este sitio web se encontrará una cantidad voluminosa de información sobre nuestros árboles.
 <br />    -Aquí encontrarás información de árboles como:
 <br />
-        * Manzanos.
-        * Naranjos.
-        * Perales.
-        * Limoneros.
-        * Etc
+* Manzanos.
+* Naranjos.
+* Perales.
+* Limoneros.
+* Etc
 <br />
 <br />
 <br />
